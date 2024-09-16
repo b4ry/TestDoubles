@@ -10,7 +10,7 @@ namespace ServiceTests
         // DUMMY
 
         [Fact]
-        public void SomeOtherMethod_ShouldNotThrow_WhenValidParameters()
+        public void SomeOtherMethod_ShouldNotThrow()
         {
             // Arrange
             var userServiceDummy = new UserServiceDummy();
